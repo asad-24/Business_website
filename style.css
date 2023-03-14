@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main_background{
+background-color:   #5498f0;
+
+}
+.sticky-top{
+    background-color:   #5498f0;
+}
+
+
+    .client-img{
+      filter: grayscale(1);
+    }
+    .third_fluid_con{
+        background-color: aliceblue;
+    }
+    .call_to_action{
+        background: linear-gradient(rgba(40, 58, 90, 0.9), rgba(40, 58, 90, 0.9)), url("../img/cta-bg.jpg") fixed center center;
+        background-size: cover;
+    }
+ .team_container{
+    background-color: rgb(190, 219, 243);
+ }
+ .text-primary1{
+    color: rgba(40, 58, 90, 0.9);
+    font-weight: bold;
+ }
+ .text-primary1:hover {
+    color: #2781f8;
+    font-weight: bold;
+ }
+
+ .bi-question-circle{
+    color: #2781f8;
+    font-weight: bold;
+ }
+
+ .map_container{
+    background-color: rgb(242, 238, 229);
+ }
+ .all_item p{
+
+    color:rgba(40, 58, 90, 0.9) ;
+ }
